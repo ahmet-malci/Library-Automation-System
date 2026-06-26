@@ -1,8 +1,6 @@
 📚 Library Management System
 A professional, full-stack web application designed for efficient library administration. Built with native PHP and MySQL, this system bridges the gap between users and administrators, providing a seamless interface for book management, borrowing processes, and secure authentication.
 
-📸 Screenshots
-
 📌 Modules & Features
 
 1. User Interface
